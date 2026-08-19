@@ -3,7 +3,7 @@
 * 資訊科技(IT)創業家
 * 數學家庭教師
 * 大學資訊教師
-* IT：Information Technology
+* 資訊科技(IT：Information Technology)
 
 ----
 
